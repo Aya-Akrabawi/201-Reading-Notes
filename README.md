@@ -2,6 +2,8 @@
 **Hello every one, here you will find the reading notes for our class (code 201), hope you find it useful**
 
 ## here are the topics for each read note:
+
+
 Read # | title
 ------ | -----
 Read: 01 | Introductory HTML and JavaScript
