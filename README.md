@@ -4,8 +4,8 @@
 ## here are the topics for each read note:
 
 
-Read # | title
------- | -----
+Read No. | Title
+-------- | ----- 
 Read: 01 | Introductory HTML and JavaScript
 Read: 02 | HTML Text, CSS Introduction, and Basic JavaScript Instructions
 Read: 03 | HTML Lists, CSS Boxes, JS Control Flow
