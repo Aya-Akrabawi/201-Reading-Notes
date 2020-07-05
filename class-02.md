@@ -1,4 +1,4 @@
-## Introductory HTML and JavaScript
+## HTML Text, CSS Introduction, and Basic JavaScript Instructions
 **text tags**
 1. Headings and paragraphs:
 * main heading: \<h1>\</h1> 
