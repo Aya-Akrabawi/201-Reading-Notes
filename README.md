@@ -6,7 +6,7 @@
 
 Read No. | Title
 -------- | ----- 
-Read: 01 | [Introductory HTML and JavaScript]()
+Read: 01 | [Introductory HTML and JavaScript](https://aya-akrabawi.github.io/201-Reading-Notes/class-01)
 Read: 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://aya-akrabawi.github.io/201-Reading-Notes/class-02)
 Read: 03 | [HTML Lists, CSS Boxes, JS Control Flow]()
 Read: 04 | [HTML Links, CSS Layout, JS Functions]()
