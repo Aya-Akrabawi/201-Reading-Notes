@@ -17,3 +17,16 @@
 ``</li>``
 ``<li>Tarts</li>``
 ``</ul>``
+### CSS Boxes:
+**CSS treats each HTML element as if it lives in its own box. you can change these boxes properties:**
+1. Box Dimensions:width, height.
+2. Limiting Width: min-width, max-width and Limiting Height: min-height, max-height
+3. Overflowing Content ``overflow`` , such as hidden or scroll.
+4. make bordrs and you can play with there styles:
+  * Border Width 
+  * Border Style: solid - dotted - dashed - double - groove - ridge - inset - outset - hidden / none .
+  * Border Color
+  * padding
+  * margins
+  * centering content
+  
