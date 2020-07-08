@@ -2,14 +2,19 @@
 
 ### HTML Images:
  - this is the tag for adding images to pages:
+
+
+
+
  ```
  <img src="images/quokka.jpg" alt="A family of
  quokka" title="The quokka is an Australian
  marsupial that is similar in size to the
  domestic cat." />
  ```
-- Figure and Figure Caption : use it to add photo and caption for it:
 
+- Figure and Figure Caption : use it to add photo and caption for it:
+/
 
 
 
