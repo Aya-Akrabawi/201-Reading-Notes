@@ -1,15 +1,27 @@
 ## HTML links:
 **types of links:**
 ● Links from one website to another:
+
+
   ``<a href="http://www.metacritic.com">Metacritic</a>``
+
+
 ● Links from one page to another on the same website:
+
+
 ``<a href="index.html">Home</a>``
+
 ● Links from one part of a web page to another part of the same page:
+
 ``<a href="../../index.html">Home</a>``
+
 ● Links that open in a new browser window:
+
 ``<a href="http://www.imdb.com" target="_blank">
 Internet Movie Database</a> ``
+
 ● Links that start up your email program and address a new email to someone:
+
 ``<a href="mailto:jon@example.org">Email Jon</a>``
 
 
