@@ -9,6 +9,10 @@
  domestic cat." />
  ```
 - Figure and Figure Caption : use it to add photo and caption for it:
+
+
+
+
 ```
 <figure>
 <img src="images/otters.jpg" alt="Photograph of
