@@ -44,4 +44,4 @@
 
 
 **JS Constructor Functions:**
-[JS Constructor Functions](Images\objects-summery.png)
+![JS Constructor Functions](Images\objects-summery.png)
